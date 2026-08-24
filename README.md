@@ -9,3 +9,5 @@ My strongest area of development was software design and engineering. Creating a
 Database development was another valuable learning experience because it was still relatively new to me. However, I enjoyed learning how databases could be expanded and used to improve the functionality of my application. I also gained a better understanding of security and how to implement security features within my project.
 
 Overall, the Computer Science Program helped me grow as a developer by strengthening my technical skills while also teaching me to think critically about design, functionality, testing, databases, security, and the needs of the user. These experiences have given me a strong foundation that I can continue building on as I pursue a career in computer science.
+
+[Self-Reflection PDF](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Self-Reflection.pdf)
