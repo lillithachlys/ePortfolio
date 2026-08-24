@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="45dp" >
+
+    <TextView
+        android:id="@+id/settingsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Settings"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/smsNotificationLabel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="SMS Notifications"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/settingsTitle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/smsNotificationSwitch"
+        android:layout_marginTop="40dp" />
+
+    <TextView
+        android:id="@+id/smsNotificationDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Receive SMS notifications about your weight tracking."
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/smsNotificationLabel"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/smsNotificationSwitch"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="10dp" />
+
+    <Switch
+        android:id="@+id/smsNotificationSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enabled"
+        app:layout_constraintTop_toTopOf="@id/smsNotificationLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="24dp" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:onClick="LogoutClick"
+        app:layout_constraintTop_toBottomOf="@id/smsNotificationDescription"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="40dp" />
+
+    <Button
+        android:id="@+id/deleteUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete User"
+        android:onClick="DeleteUserClick"
+        app:layout_constraintTop_toBottomOf="@id/deleteUserData"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="25dp" />
+
+    <Button
+        android:id="@+id/deleteUserData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete Data"
+        android:onClick="DeleteUserDataClick"
+        app:layout_constraintTop_toBottomOf="@id/logout"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="100dp" />
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:onClick="BackToMainClick"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
