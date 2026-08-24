@@ -12,16 +12,31 @@ Overall, the Computer Science Program helped me grow as a developer by strengthe
 
 [Self-Reflection PDF](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Self-Reflection.pdf)
 
+
 ## Overview
 All of my enhancements are based on the same original work. Therefor, all the work was done in the same project for this course. The original work is from CS 360, and now enhanced for CS 499. It is of an android app for weight tracking.
 
 [Original Work](https://github.com/lillithachlys/ePortfolio/tree/main/CS%20%20499/Original/CS360Project)
+
 [Enhanced Work](https://github.com/lillithachlys/ePortfolio/tree/main/CS%20%20499/Enchanement/CS499Project)
+
 
 ## Enhancement Reflection
 
-[Enhancement One: Software Design/Engineering](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20One.pdf)
+[Enhancement One: Software Design/Engineering PDF](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20One.pdf)
 
-[Enhancement Two: Algorithms and Data Structures](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20Two.pdf)
+[Enhancement Two: Algorithms and Data Structures PDF](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20Two.pdf)
 
-[Enhancement Three: Databases](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20Three.pdf)
+[Enhancement Three: Databases PDF](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20Three.pdf)
+
+## Word Document Versions
+
+These are the Word document (.docx) of the three enhancement reflections and self-reflection.
+
+[Self-Reflection DOCX](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/doc/CS%20499%20Self-Reflection.docx)
+
+[Enhancement One: Software Design/Engineering DOCX](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/doc/CS%20499%20Enhancment%20One.docx)
+
+[Enhancement One: Software Design/Engineering DOCX](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/doc/CS%20499%20Enhancment%20Two.docx)
+
+[Enhancement Two: Algorithms and Data Structures DOCX](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/doc/CS%20499%20Enhancment%20Three.docx)
