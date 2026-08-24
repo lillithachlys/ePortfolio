@@ -1,6 +1,6 @@
 # ePortfolio
 
-Professional Self-Assessment
+## Professional Self-Assessment
 
 Completing the Computer Science Program has given me the opportunity to enhance my knowledge and skills. Throughout the program, I have demonstrated my growth in UI/UX design, testing, and problem-solving. One of the most important lessons I learned was to focus on understanding the problems that needed to be addressed rather than simply making sure the code worked. This approach helped me maintain my progress and keep track of the improvements I wanted to make to my project.
 
