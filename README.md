@@ -11,3 +11,17 @@ Database development was another valuable learning experience because it was sti
 Overall, the Computer Science Program helped me grow as a developer by strengthening my technical skills while also teaching me to think critically about design, functionality, testing, databases, security, and the needs of the user. These experiences have given me a strong foundation that I can continue building on as I pursue a career in computer science.
 
 [Self-Reflection PDF](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Self-Reflection.pdf)
+
+## Overview
+All of my enhancements are based on the same original work. Therefor, all the work was done in the same project for this course. The original work is from CS 360, and now enhanced for CS 499. It is of an android app for weight tracking.
+
+[Original Work](https://github.com/lillithachlys/ePortfolio/tree/main/CS%20%20499/Original/CS360Project)
+[Enhanced Work](https://github.com/lillithachlys/ePortfolio/tree/main/CS%20%20499/Enchanement/CS499Project)
+
+## Enhancement Reflection
+
+[Enhancement One: Software Design/Engineering](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20One.pdf)
+
+[Enhancement Two: Algorithms and Data Structures](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20Two.pdf)
+
+[Enhancement Three: Databases](https://github.com/lillithachlys/ePortfolio/blob/main/CS%20%20499/Reflections/pdf/CS%20499%20Enhancment%20Three.pdf)
